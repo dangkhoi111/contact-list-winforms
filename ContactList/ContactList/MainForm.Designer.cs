@@ -35,30 +35,33 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(310, 26);
+            this.label1.Location = new System.Drawing.Point(349, 32);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(113, 16);
+            this.label1.Size = new System.Drawing.Size(136, 20);
             this.label1.TabIndex = 0;
             this.label1.Text = "Danh sách liên hệ";
             // 
             // btnAddContact
             // 
-            this.btnAddContact.Location = new System.Drawing.Point(124, 238);
+            this.btnAddContact.Location = new System.Drawing.Point(140, 298);
+            this.btnAddContact.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnAddContact.Name = "btnAddContact";
-            this.btnAddContact.Size = new System.Drawing.Size(75, 23);
+            this.btnAddContact.Size = new System.Drawing.Size(84, 29);
             this.btnAddContact.TabIndex = 1;
             this.btnAddContact.Text = "Thêm liên hệ";
             this.btnAddContact.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(900, 562);
             this.Controls.Add(this.btnAddContact);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form1";
             this.Text = "MainForm.cs";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
