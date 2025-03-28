@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# contact-list-winforms
-=======
-# contact-list-winforms.
->>>>>>> ce8761b (Initial commit)
+## 📌 Thông tin Thành viên Nhóm
+
+| Họ và Tên                 | MSSV         |
+|---------------------------|-------------|
+| **Trần Nguyễn Đăng Khôi** | 2280601576  |
+| **Nguyễn Trần Thiên Long** | 2280601782  |
