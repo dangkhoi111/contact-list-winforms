@@ -1,6 +1,7 @@
-## ğŸ“Œ ThÃ´ng tin ThÃ nh viÃªn NhÃ³m
+"# Th“ng tin th…nh viˆn nh¢m" 
+# Thông tin thành viên nhóm
 
-| Há» vÃ  TÃªn                 | MSSV         |
-|---------------------------|-------------|
-| **Tráº§n Nguyá»…n ÄÄƒng KhÃ´i** | 2280601576  |
-| **Nguyá»…n Tráº§n ThiÃªn Long** | 2280601782  |
+- **H? và Tên (Thành viên A)**: Trâ`n Nguyê~n Ğang Khôi  
+  - **MSSV**: 2280601576  
+- **H? và Tên (Thành viên B)**: Nguyê~n Trâ`n Thiên Long  
+  - **MSSV**: 2280601782  
